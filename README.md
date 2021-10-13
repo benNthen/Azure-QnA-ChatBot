@@ -1,5 +1,5 @@
 # Azure-QnA-ChatBot
-A simple webpage that contains a chatbot that answers the questions based on the Turners' FAQ page. This uses Microsoft Azure Web App Bot Services and QnA Maker API to provide a response to the queries entered by the user.
+A simple webpage that contains a chatbot that answers the questions based on the [Turners' FAQ about Online Auctions page](https://www.turners.co.nz/Cars/how-to-buy/Online-auctions/). This uses Microsoft Azure Web App Bot Services and QnA Maker API to provide a response to the queries entered by the user.
 
 ## Using the repository
 After downloading, simply open the `index.html` file.
